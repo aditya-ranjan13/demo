@@ -1,4 +1,4 @@
 # demo
 This is my first repository.
 <br>
-Author-Aditya Ranjan(syudent)
+Author-Aditya Ranjan(student)
